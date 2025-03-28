@@ -7,7 +7,7 @@ const StyledComponent = ({ color, fontSize }) => {
     backgroundColor: "antiquewhite",
     fontSize:  "20px",
     padding: "10px",
-    border: "1px solid #ccc",
+    border: "1px solid ",
     textAlign: "center",
   };
 
